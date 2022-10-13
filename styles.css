@@ -7,9 +7,13 @@ img{
     width:  350px;
 }
 
-#top-heading{
+#top-heading,
+.heading{
     background-color: rgb(255, 165, 0);
     color: black;
+}
+
+#top-heading{
     text-align: center;
     font-size: xx-large;
     font-weight: bold;
