@@ -11,12 +11,12 @@ img{
 .heading{
     background-color: rgb(255, 165, 0);
     color: black;
+    font-weight: bold;
 }
 
 #top-heading{
     text-align: center;
     font-size: xx-large;
-    font-weight: bold;
     font-style: oblique;
 }
 
@@ -27,4 +27,9 @@ img{
     font-size: xx-large;
     font-family:"Papyrus", fantasy;
     font-weight: bolds;
+}
+
+.heading{
+    text-align: justify;
+    font-size: x-large;
 }
