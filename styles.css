@@ -14,5 +14,13 @@ h1{
     font-size: xx-large;
     font-weight: bold;
     font-style: oblique;
+}
 
+.recipe-name{
+    background-color: orange;
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    font-family:"Papyrus", fantasy;
+    font-weight: bold;
 }
